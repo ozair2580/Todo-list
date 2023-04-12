@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../reactdux"
+		},
+		{
+			"path": "../../../reactjsfol2"
+		}
+	],
+	"settings": {}
+}
